@@ -4,8 +4,7 @@
 - 👨‍💻 All of my projects are available at [www.mzrdeveloper.com](https://www.mzrdeveloper.com/)
 - 🏡 Madrid, Spain
 - 🛸 100% remote
-
-<h2 align="left">Connect with me: [info@mzrdeveloper.com](mailto:info@mzrdeveloper.com)</h2>
+- Connect with me: [info@mzrdeveloper.com](mailto:info@mzrdeveloper.com)
 
 <p align="left">
 </p>
