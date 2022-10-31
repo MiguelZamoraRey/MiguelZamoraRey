@@ -2,8 +2,10 @@
 <h3 align="center">A feeelance web & mobile developer</h3>
 
 - 👨‍💻 All of my projects are available at [www.mzrdeveloper.com](www.mzrdeveloper.com)
+- 🏡 Madrid, Spain
+- 🛸 100% remote
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: info@mzrdeveloper.com</h3>
 <p align="left">
 </p>
 
