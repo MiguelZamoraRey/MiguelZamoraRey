@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Miguel Zamora</h1>
 <h3 align="center">A feeelance web & mobile developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://www.mzrdeveloper.com/](www.mzrdeveloper.com)
+- 👨‍💻 All of my projects are available at [mzrdeveloper.com]([www.mzrdeveloper.com](https://www.mzrdeveloper.com/))
 - 🏡 Madrid, Spain
 - 🛸 100% remote
 
