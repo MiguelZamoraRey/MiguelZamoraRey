@@ -4,7 +4,7 @@
 - 👨‍💻 Some of my projects are available at [www.mzrdeveloper.com](https://www.mzrdeveloper.com/)
 - 🏡 Guadalajara, Spain
 - 🛸 100% remote
-- Connect with me: [info@mzrdeveloper.com](mailto:info@mzrdeveloper.com)
+- Connect with me: [miguelzamorarey@gmail.com](mailto:miguelzamorarey@gmail.com)
 
 <p align="left">
 </p>
